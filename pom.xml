@@ -30,6 +30,8 @@
 		<testcontainers.version>1.19.3</testcontainers.version>
 		<mapstruct.version>1.6.3</mapstruct.version>
 		<apache.commons.version>1.12.0</apache.commons.version>
+		<postgres.driver.version>42.7.4</postgres.driver.version>
+		<flaway.version>10.21.0</flaway.version>
 	</properties>
 
 	<dependencies>
